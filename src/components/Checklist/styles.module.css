@@ -1,0 +1,15 @@
+.item {
+  border-bottom: 1px solid #adb5bd;
+  padding: 0.25rem;
+}
+
+.item_completed span {
+  text-decoration: line-through;
+  color: #6e7e8c;
+}
+
+.resetButton {
+  display: block;
+  padding-top: 0.8rem;
+  margin: 1rem auto 0 auto;
+}
